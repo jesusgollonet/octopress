@@ -2,12 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+url: http://blog.jesusgollonet.com
+title: Software over the rainbow
+subtitle: desearch and revelopment
 author: Your Name
 simple_search: http://google.com/search
 description:
+
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -31,8 +32,8 @@ permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
-code_dir: downloads/code
-category_dir: blog/categories
+# code_dir: downloads/code
+# category_dir: blog/categories
 markdown: rdiscount
 rdiscount:
   extensions:
