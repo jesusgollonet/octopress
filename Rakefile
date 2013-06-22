@@ -1,12 +1,20 @@
 require "rubygems"
 require "bundler/setup"
 require "stringex"
+require File.join(File.dirname(__FILE__), "", "helpers/env_helper")
+
+EnvHelper.set_env_vars
+
+
+puts EnvHelper.get_local_env_path
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
+ssh_user       = "#{ENV["USER"]}@#{ENV["HOST"]}"
+puts ssh_user
 ssh_port       = "22"
-document_root  = "~/website.com/"
+document_root  = ENV["DEPLOY_PATH"]
+puts document_root
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
