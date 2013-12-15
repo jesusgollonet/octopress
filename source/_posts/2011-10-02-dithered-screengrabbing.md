@@ -21,9 +21,12 @@ I also recorded some video. The quality of the dithering is poor due to the vide
 
 Here&#8217;s the app over [body magic][5] by the amazing [53os][6]
 
+<object type="application/x-shockwave-flash" width="400" height="336" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=8387cf9d89&photo_id=6200619079"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=8387cf9d89&photo_id=6200619079" height="336" width="400"></embed></object>
 
+And then over [a docu about the opening of an op art exhibition from the 60s][7] published on [ubuweb][8], which seemed totally appropriate.
 
-An then over [a docu about the opening of an op art exhibition from the 60s][7] published on [ubuweb][8], which seemed totally appropriate.
+<object type="application/x-shockwave-flash" width="400" height="298" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=006facc979&photo_id=6200547573"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=006facc979&photo_id=6200547573" height="298" width="400"></embed></object>
+
 
 
 
