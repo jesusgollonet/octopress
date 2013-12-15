@@ -5,9 +5,9 @@
 url: http://blog.jesusgollonet.com
 title: Software over the rainbow
 subtitle: desearch and revelopment
-author: Your Name
+author: Jesus Gollonet
 simple_search: http://google.com/search
-description:
+description: 
 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -64,14 +64,14 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: jesusgollonet
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_button: true
+twitter_user: jesusgollonet
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
