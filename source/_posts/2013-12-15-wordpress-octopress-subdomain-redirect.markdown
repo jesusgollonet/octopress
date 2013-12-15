@@ -24,7 +24,7 @@ RewriteCond %{HTTP_HOST} !^blog\.jesusgollonet\.com$ [NC]
 RewriteRule ^blog/(.*)$ http://blog.jesusgollonet.com/$1 [L,NC,R=301]
 ```
 
-It sends to the subdomain all requests coming to `blog/`, appending any additional 'folders'. So [http://jesusgollonet.com/blog/2011/08/20/travel/](http://jesusgollonet.com/blog/2011/08/20/travel) leads to [blog.jesusgollonet.com/2011/08/20/travel/](http://blog.jesusgollonet.com/2011/08/20/travel/). 
+It sends to the subdomain all requests coming to `blog/`, appending any additional 'folders'. So [http://jesusgollonet.com/blog/2011/08/20/travel/](http://jesusgollonet.com/blog/2011/08/20/travel) leads to [http://blog.jesusgollonet.com/2011/08/20/travel/](http://blog.jesusgollonet.com/2011/08/20/travel/). 
 
 By the way, to keep my old wordpress in its location for reference, I had to comment out the rewrite bit in `blog/.htaccess`, as it was taking precendence over the one in the root
 
