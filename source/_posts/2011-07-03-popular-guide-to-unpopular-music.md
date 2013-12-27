@@ -1,5 +1,6 @@
 ---
 title: popular guide to unpopular music
+date: 2011-07-03 01:50
 author: jesus gollonet
 layout: post
 permalink: /2011/07/03/popular-guide-to-unpopular-music/

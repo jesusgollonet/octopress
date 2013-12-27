@@ -1,5 +1,6 @@
 ---
 title: '&#8220;I stopped buying music&#8221;'
+date: 2011-07-03 01:59
 author: jesus gollonet
 layout: post
 permalink: /2011/07/03/i-stopped-buying-music/
